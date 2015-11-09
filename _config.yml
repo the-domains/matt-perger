@@ -1,6 +1,6 @@
 name: Matt Perger
 favicon: null
-layout_spectrum: 0.1984182803425938
+layout_spectrum: 0.17809
 typography_spectrum: 0.7237749474588782
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.375
+  brandStrength: 0
   lightness: 0.5130996794905514
   saturation: 0.7596754126716405
   rhythmicContrast: 0.7082889948505908
