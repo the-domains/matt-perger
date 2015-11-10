@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Matt Perger]]></title>
         <description><![CDATA[Matt Perger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://mattperger.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 19:31:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 01:14:18 GMT</lastBuildDate>
+        <atom:link href="http://mattperger.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Matt]]></title>
+            <description><![CDATA[<article><h1>About Matt</h1><p>Pushing the Boundaries of Coffee</p></article>]]></description>
+            <link>http://mattperger.com/about-matt/index.html</link>
+            <guid isPermaLink="false">6bf8fe1c-7b60-427b-8db2-0af3e27af6a6</guid>
+            <pubDate>Tue, 10 Nov 2015 01:14:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedcfd10fb7-ead2-4d4b-9053-d45211812c69/index.html</link>
+            <link>http://mattperger.com/cfd10fb7-ead2-4d4b-9053-d45211812c69/index.html</link>
             <guid isPermaLink="false">cfd10fb7-ead2-4d4b-9053-d45211812c69</guid>
             <pubDate>Mon, 09 Nov 2015 19:31:18 GMT</pubDate>
         </item>
